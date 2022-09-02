@@ -1,0 +1,61 @@
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(217, 54%, 11%);
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: 300, 400, 600;
+}
+.card {
+  width: 350px;
+  height: 600px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 20px;
+}
+.NFT {
+  width: 300px;
+  padding: 20px;
+  margin-left: 5px;
+  border-radius: 30px;
+}
+.text {
+  margin-left: 32px;
+}
+.main-class {
+  font-family: sans-serif;
+  line-height: 30px;
+  font-weight: lighter;
+}
+.svg {
+  margin-right: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.eth {
+  color: hsl(178, 100%, 50%);
+  font-weight: 550;
+}
+.clock {
+  font-weight: lighter;
+}
+.circle-container {
+  display: flex;
+  margin-left: 40px;
+  margin-top: 15px;
+}
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 20px;
+}
+.icon {
+  width: 38px;
+}
+.circle-text {
+  margin: 10px;
+  font-weight: 100;
+}
